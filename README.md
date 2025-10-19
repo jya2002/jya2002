@@ -23,8 +23,8 @@ Jeg er spesielt interessert i **programmering, beregningsmodeller, kunstig intel
 ---
 
 ### 📫 Kontakt meg
-- 📧 [din.email@adresse.no](mailto:julia.alemu@gmail.com)  
-- 💻 [github.com/dittbrukernavn](https://github.com/jya2002)
+- 📧 [julia.alemu@gmail.com](mailto:julia.alemu@gmail.com)  
+- 💻 [github.com/jya2002](https://github.com/jya2002)
 
 ---
 
