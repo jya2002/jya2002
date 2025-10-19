@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hei 👋 Jeg er Julia Alemu
 
-<!--
-**jya2002/jya2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jeg er student ved Universitetet i Oslo, der jeg går første året på **Bachelor i Matematikk: Data, Modellering og Beregninger**.  
+Jeg er spesielt interessert i **programmering, beregningsmodeller, kunstig intelligens og webutvikling**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Teknologier og verktøy
+- **Språk:** Python, JavaScript, HTML, CSS  
+- **Verktøy:** Webflow, Git, Excel, PowerPoint  
+- **Interesser:** IT-support, datadrevet problemløsning, AI-trening, brukervennlige systemer
+
+---
+
+### 💼 Erfaring
+- **Soleklart Rød** – Utvikler  
+  Jobber med kode og tekniske løsninger for nettsider til bedrifter innen solenergi.  
+- **Outlier AI** – AI-trener  
+  Skrev og evaluerte prompter og kode for å trene AI-modeller.  
+- **Son Håndverksbakeri** – Kasseansvarlig  
+  Høyt tempo, selvstendig ansvar og direkte kundekontakt.
+
+---
+
+### 📫 Kontakt meg
+- 📧 [din.email@adresse.no](mailto:julia.alemu@gmail.com)  
+- 💻 [github.com/dittbrukernavn](https://github.com/jya2002)
+
+---
+
+> “I enjoy learning by building — every small project is a step towards mastering real-world problem solving.”
