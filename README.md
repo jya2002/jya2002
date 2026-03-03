@@ -7,18 +7,15 @@ Jeg er spesielt interessert i **programmering, beregningsmodeller, kunstig intel
 
 ### 🔧 Teknologier og verktøy
 - **Språk:** Python, JavaScript, HTML, CSS  
-- **Verktøy:** Webflow, Git, Excel, PowerPoint  
-- **Interesser:** IT-support, datadrevet problemløsning, AI-trening, brukervennlige systemer
+- **Verktøy:** Webflow, Git
 
 ---
 
 ### 💼 Erfaring
 - **Soleklart Rød** – Utvikler  
-  Jobber med kode og tekniske løsninger for nettsider til bedrifter innen solenergi.  
+  Jobbet med kode og tekniske løsninger for nettsider til bedrifter innen solenergi.  
 - **Outlier AI** – AI-trener  
   Skrev og evaluerte prompter og kode for å trene AI-modeller.  
-- **Son Håndverksbakeri** – Kasseansvarlig  
-  Høyt tempo, selvstendig ansvar og direkte kundekontakt.
 
 ---
 
