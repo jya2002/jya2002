@@ -1,6 +1,6 @@
 # Hei 👋 Jeg er Julia Alemu
 
-Jeg er student ved Universitetet i Oslo, der jeg går første året på **Bachelor i Matematikk: Data, Modellering og Beregninger**.  
+Jeg er student ved Universitetet i Oslo, der jeg går andre året på **Bachelor i Matematikk: Data, Modellering og Beregninger**.  
 Jeg er spesielt interessert i **programmering, beregningsmodeller, kunstig intelligens og webutvikling**.
 
 ---
